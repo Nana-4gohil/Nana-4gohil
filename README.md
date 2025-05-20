@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nana Gohil</h1>
+<h1 align="center">Hi 👋, I'm Shivam Gohil</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nana-4gohil&label=Profile%20views&color=0e75b6&style=flat" alt="nana-4gohil" /> </p>
 
@@ -6,7 +6,7 @@
 />
 - 🌱 I’m currently learning **Node.js React.js MongoDB Express.js**
 
-- 📫 How to reach me **gohilnana9@gmail.com**
+- 📫 How to reach me **shivamgohil8780@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
